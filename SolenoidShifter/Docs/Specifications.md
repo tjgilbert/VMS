@@ -10,12 +10,14 @@ The controller **must:**
 * Prevent actuating both outputs at the same time
 * Be < 12V tolerant on all inputs
 * Operate on 5-15 volts supply
+* Waterproof
+* Have an output for throttle cut
 
 The controller **should:**
 * Have field programmable dwell time adjustmant (ie. DIP switches, knob.. etc)
   - over a certain range ie. 10-400ms
   - the delay should be repeatable / readable
-* Have an output for throttle cut
+
 
 The controller **may:**
 * Have seperate dwell time adjustment for up / down shift
